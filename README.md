@@ -25,3 +25,10 @@ Em resumo, este aplicativo gera aleatoriamente seis números entre 1 e 60 e exib
 
 ![image](https://github.com/minoru-yamanaka/Sorteiode6numerosparaaposta/assets/106222007/5233a56c-0992-4ca4-ab0d-eb6e4d31b506)
 
+---
+
+Prezado [Professor Douglas](linkedin.com/in/douglas-dos-reis-3473a868),
+
+Agradeço imensamente pelas suas aulas de Desenvolvimento Mobile Android. A experiência ao criar este aplicativo foi incrível, e sua orientação foi essencial. Estou muito grato por todo o aprendizado proporcionado.
+
+Atenciosamente, Minoru
